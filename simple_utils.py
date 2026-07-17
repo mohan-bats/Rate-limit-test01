@@ -19,3 +19,6 @@ def average(numbers):
 def parse_score(raw):
     name, score = raw.split(":")
     return {"name": name, "score": int(score)}
+
+def empty():
+    return 0

@@ -4,3 +4,4 @@ def hello():
 hello()
 
 print(hello())
+"error block"

@@ -4,3 +4,5 @@ def hello():
 	print("No Hello!")
 
 hello()
+
+print(hello())

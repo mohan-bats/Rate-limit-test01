@@ -20,5 +20,5 @@ def parse_score(raw):
     name, score = raw.split(":")
     return {"name": name, "score": int(score)}
 
-def empty():
+def empty1():
     return 0

@@ -13,4 +13,4 @@ for i in {1..10}; do
     fi
 done
 
-echo "Cleanup complete."
+echo "Cleanup complete!"
